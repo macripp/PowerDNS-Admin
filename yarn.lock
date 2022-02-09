@@ -718,10 +718,10 @@ jsonparse@^1.2.0:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/jsonparse/-/jsonparse-1.3.1.tgz#3f4dae4a91fac315f71062f8521cc239f1366280"
 
-jtimeout@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/jtimeout/-/jtimeout-3.1.0.tgz#4cd65b28eff8b9f8c61d08889a9ac3abdf5d9893"
-  integrity sha512-xA2TlImMGj4c0yAiM9BUq+8aAFVYVYUX2tkcC8u8das9qoZSs13SxhVcfWqI4cHOsv3huj2D0VRNHeVCLO3mVQ==
+jtimeout@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/jtimeout/-/jtimeout-3.2.0.tgz#a27dd31652b7a97d4877674a2e9a25551c60d6ba"
+  integrity sha512-P/cEhmgr8P2Vd3V79uUk6pHAHpMSe+Px7B+mGEir4aZW3/J6C09uH97aAEXVpjqb9i9vHnUyIp7k0UoA+Hy0eg==
   dependencies:
     jquery ">=1.7.1 <4.0.0"
 
