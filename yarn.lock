@@ -419,10 +419,10 @@ datatables.net-bs@^1.10.19:
     datatables.net "1.10.19"
     jquery ">=1.7"
 
-datatables.net-plugins@^1.10.19:
-  version "1.10.20"
-  resolved "https://registry.yarnpkg.com/datatables.net-plugins/-/datatables.net-plugins-1.10.20.tgz#c89f6bed3fa7e6605cbeaa35d60f223659e84c8c"
-  integrity sha512-rnhNmRHe9UEzvM7gtjBay1QodkWUmxLUhHNbmJMYhhUggjtm+BRSlE0PRilkeUkwckpNWzq+0fPd7/i0fpQgzA==
+datatables.net-plugins@^1.11.4:
+  version "1.11.5"
+  resolved "https://registry.yarnpkg.com/datatables.net-plugins/-/datatables.net-plugins-1.11.5.tgz#c53ebbd0ab3473a08c6ae36eb1990a66de599b89"
+  integrity sha512-+Rsf/fyLG8GyFqp7Bvd1ElqWGQO3NPsx2VADn9X8QaZbctshGVW0sqvR5V7iHHgY6OY1LR0+t6qIMhan9BM4gA==
 
 datatables.net@1.10.19, datatables.net@^1.10.19:
   version "1.10.19"
